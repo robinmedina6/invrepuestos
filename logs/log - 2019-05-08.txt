@@ -1,0 +1,19 @@
+08:19:19_almacen_ --> se logueo<--
+08:19:19_almacen_ --> se carga el informe <--
+08:21:07_almacen_ --> se edito repuesto:modelo:136:T700<--
+08:21:12_almacen_ --> se edito repuesto:modelo:137:T800<--
+08:21:23_almacen_ --> se edito repuesto:modelo:138:T1000<--
+08:21:48_almacen_ --> se edito repuesto:modelo:139:LECTOR BARRAS<--
+08:21:51_almacen_ --> se edito repuesto:modelo:139:LECTOR BARRAS<--
+08:21:52_almacen_ --> se edito repuesto:modelo:140:LECTOR BARRAS<--
+08:22:23_almacen_ --> se edito repuesto:modelo:140:TP230
+<--
+11:14:04_almacen_ --> se logueo<--
+11:14:05_almacen_ --> se carga el informe <--
+11:14:07_almacen_ --> se imprimen variables para ingreso <--
+11:15:28_almacen_ --> se imprimen variables para ingreso <--
+11:16:26_almacen_ --> se imprimen variables para remision <--
+11:16:31_almacen_ --> se imprimen variables para ingreso <--
+11:17:20_almacen_ --> se imprimen variables para ingreso <--
+15:04:02_almacen_ --> se logueo<--
+15:04:03_almacen_ --> se carga el informe <--

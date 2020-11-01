@@ -1,0 +1,50 @@
+.btn{
+-webkit-user-select: none;
+background-color: rgba(0, 0, 0, 0);
+background-image: -webkit-linear-gradient(top, rgb(248, 248, 248), rgb(241, 241, 241));
+border-bottom-color: rgb(198, 198, 198);
+border-bottom-left-radius: 2px;
+border-bottom-right-radius: 2px;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-image-outset: 0px;
+border-image-repeat: stretch;
+border-image-slice: 100%;
+border-image-source: none;
+border-image-width: 1;
+border-left-color: rgb(198, 198, 198);
+border-left-style: solid;
+border-left-width: 1px;
+border-right-color: rgb(198, 198, 198);
+border-right-style: solid;
+border-right-width: 1px;
+border-top-color: rgb(198, 198, 198);
+border-top-left-radius: 2px;
+border-top-right-radius: 2px;
+border-top-style: solid;
+border-top-width: 1px;
+box-shadow: none;
+color: rgb(51, 51, 51);
+cursor: pointer;
+display: block;
+font-family: arial, sans-serif;
+font-size: 11px;
+font-weight: bold;
+line-height: 30px;
+margin-right: 16px;
+outline-color: rgb(51, 51, 51);
+padding-left: 2px;
+padding-right: 2px;
+padding-top: 0px;
+position: relative;
+text-align: center;
+width:auto;
+max-width:100px;
+max-height:30px;
+}
+.btn:hover{
+}
+.btnmd{
+	box-shadow:inset rgba(0,102,204,0.5) 0px 0px 4px;
+	background-image: -webkit-linear-gradient(top, rgb(240, 240, 240), rgb(233,233,233));
+	}

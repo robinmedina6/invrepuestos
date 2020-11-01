@@ -1,0 +1,13 @@
+14:03:53_almacen_ --> se logueo<--
+14:03:53_almacen_ --> se carga el informe <--
+14:03:55_almacen_ --> se imprimen variables para ingreso <--
+14:04:50_almacen_ --> se carga el informe <--
+14:05:08_almacen_ --> se imprimen variables para remision <--
+14:06:21_almacen_ --> se imprimen variables para remision <--
+14:10:03_almacen_ --> se imprimen variables para remision <--
+14:10:38_almacen_ --> se carga el informe <--
+14:11:02_almacen_ --> se edito repuesto:cantidad:129:0<--
+14:11:04_almacen_ --> se edito repuesto:entrada:129:35<--
+14:11:12_almacen_ --> se imprimen variables para remision <--
+14:11:12_almacen_ --> se imprimen variables para ingreso <--
+14:12:11_almacen_ --> se imprimen variables para ingreso <--

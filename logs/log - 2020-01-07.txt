@@ -1,0 +1,5 @@
+21:41:21__ --> se imprimen variables para remision <--
+21:44:23_almacen_ --> se logueo<--
+21:44:23_almacen_ --> se carga el informe <--
+22:07:04_almacen_ --> se imprimen variables para remision <--
+22:13:24_almacen_ --> se imprimen variables para remision <--

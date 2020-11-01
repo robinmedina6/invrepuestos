@@ -1,0 +1,11 @@
+17:47:10__ --> Cerro la Session<--
+17:47:19_almacen_ --> se logueo<--
+17:47:20_almacen_ --> se carga el informe <--
+17:47:21_almacen_ --> se imprimen variables para remision <--
+17:47:25_almacen_ --> se imprimen variables para remision <--
+17:48:53_almacen_ --> se imprimen variables para remision <--
+18:39:33__ --> Cerro la Session<--
+18:39:37_almacen_ --> se logueo<--
+18:39:38_almacen_ --> se carga el informe <--
+18:42:30_almacen_ --> se edito repuesto:cantidad:51:-5<--
+18:55:22_almacen_ --> se edito repuesto:cantidad:51:8<--

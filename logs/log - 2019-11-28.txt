@@ -1,0 +1,2 @@
+11:34:28_almacen_ --> se logueo<--
+11:34:30_almacen_ --> se carga el informe <--

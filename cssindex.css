@@ -1,0 +1,97 @@
+table#main{
+	margin:auto;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px
+	
+	}
+table .blue{
+    margin:10px auto;
+	border-radius:50px;
+	padding:20px;
+	text-align:center;
+background: rgb(30,87,153); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(30,87,153,1) 0%, rgba(41,137,216,1) 50%, rgba(32,124,202,1) 52%, rgba(125,185,232,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(30,87,153,1)), color-stop(50%,rgba(41,137,216,1)), color-stop(52%,rgba(32,124,202,1)), color-stop(100%,rgba(125,185,232,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(30,87,153,1) 0%,rgba(41,137,216,1) 50%,rgba(32,124,202,1) 52%,rgba(125,185,232,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(30,87,153,1) 0%,rgba(41,137,216,1) 50%,rgba(32,124,202,1) 52%,rgba(125,185,232,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(30,87,153,1) 0%,rgba(41,137,216,1) 50%,rgba(32,124,202,1) 52%,rgba(125,185,232,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(30,87,153,1) 0%,rgba(41,137,216,1) 50%,rgba(32,124,202,1) 52%,rgba(125,185,232,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
+
+}
+#param input{
+	border-radius:10px;
+	font-Size:20px;
+	margin:auto;
+	text-align:center;
+	font-family: cursive;
+	
+}
+#opr{
+	color:rgba(0,0,0,0);
+}
+
+.boton{
+color:white;
+border:white;
+background-color:rgba(255,100,100,0.5);
+border-radius:15px;
+box-shadow:10px 10px 10px;
+margin:5px auto;
+width:50px;
+padding:10px;
+}
+.boton:hover{
+color:rgba(255,100,100,0.5);
+border:rgba(255,100,100,0.5);
+background-color:white;
+}
+.btnverde{
+color:rgba(0,0,0,1);
+border:white;
+background-color:rgba(0,153,0,1);
+border-radius:5px;
+box-shadow:5px 5px 5px;
+margin:1px auto;
+width:50px;
+padding:5px;
+}
+.btnverde:hover{
+color:rgba(204,204,204,1);
+border:rgba(102,0,0,1);
+background-color:rgba(0,51,0,1);
+}
+
+body{
+
+background:rgba(51,153,0,0.1);
+/*background-image:url("http://softed.esy.es/param/img.jpg");*/
+}
+
+#invmaquinas{
+background-color:rgba(255,255,255,1);
+}
+#invmaquinas .encabezado{
+background-color:rgba(192,0,0,1);
+text-align:center;
+color:white;
+font-Size:30px;
+}
+#invmaquinas .encabezados{
+background-color:rgba(51,153,102,1);
+text-align:center;
+color:white;
+}
+#invmaquinas .titulo{
+background-color:rgba(217,217,217,1);
+}
+#resumen {
+	margin:auto;
+	background-color:rgba(255,255,255,1);
+	}
+#resumen .encabezado{
+	background-color:rgba(192,0,0,1);
+	text-align:center;
+	color:white;
+	font-Size:30px;
+	}

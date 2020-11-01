@@ -1,0 +1,7 @@
+10:44:30__ --> Cerro la Session<--
+10:44:33__ --> Cerro la Session<--
+10:44:42_almacen_ --> se logueo<--
+10:44:43_almacen_ --> se carga el informe <--
+10:44:47_almacen_ --> se imprimen variables para ingreso <--
+10:44:50_almacen_ --> se imprimen variables para remision <--
+10:47:11_almacen_ --> se imprimen variables para remision <--

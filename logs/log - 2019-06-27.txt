@@ -1,0 +1,19 @@
+12:25:37__ --> Cerro la Session<--
+12:28:07_almacen_ --> se logueo<--
+12:28:08_almacen_ --> se carga el informe <--
+12:28:12_almacen_ --> se imprimen variables para remision <--
+12:28:13_almacen_ --> se imprimen variables para remision <--
+12:28:14_almacen_ --> se imprimen variables para ingreso <--
+12:49:36_almacen_ --> se carga el informe <--
+12:49:38_almacen_ --> se imprimen variables para remision <--
+12:50:24_almacen_ --> se imprimen variables para ingreso <--
+12:50:30_almacen_ --> se carga el informe <--
+12:50:39_almacen_ --> se edito repuesto:modelo:143:<--
+12:50:39_almacen_ --> se imprimen variables para remision <--
+15:42:07_almacen_ --> se logueo<--
+15:42:08_almacen_ --> se carga el informe <--
+15:42:14_almacen_ --> se imprimen variables para remision <--
+15:45:33_almacen_ --> se imprimen variables para remision <--
+15:45:33_almacen_ --> se imprimen variables para remision <--
+16:01:07_almacen_ --> se imprimen variables para remision <--
+16:19:35_almacen_ --> se imprimen variables para remision <--

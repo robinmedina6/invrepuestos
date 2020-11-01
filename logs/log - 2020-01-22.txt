@@ -1,0 +1,38 @@
+08:31:27__ --> Cerro la Session<--
+08:31:34_almacen_ --> se logueo<--
+08:31:34_almacen_ --> se carga el informe <--
+14:25:18__ --> se imprimen variables para remision <--
+14:25:23__ --> se carga el informe <--
+14:56:50__ --> se carga el informe <--
+15:00:45__ --> se imprimen variables para remision <--
+15:00:48__ --> se imprimen variables para remision <--
+15:26:14__ --> se imprimen variables para remision <--
+15:31:44__ --> se imprimen variables para remision <--
+15:31:44__ --> se imprimen variables para remision <--
+15:45:18__ --> se imprimen variables para remision <--
+15:51:23__ --> se carga el informe <--
+15:51:23__ --> se carga el informe <--
+16:02:50__ --> Cerro la Session<--
+16:02:53_almacen_ --> se logueo<--
+16:02:53_almacen_ --> se carga el informe <--
+16:03:01_almacen_ --> se edito repuesto:cantidad:93:3<--
+16:03:08_almacen_ --> se edito repuesto:salida:93:50<--
+16:03:16_almacen_ --> se edito repuesto:entrada:93:52<--
+16:03:26_almacen_ --> se edito repuesto:entrada:93:47<--
+16:03:57_almacen_ --> se edito repuesto:cantidad:94:23<--
+16:04:01_almacen_ --> se edito repuesto:salida:94:4<--
+16:04:04_almacen_ --> se edito repuesto:cantidad:94:21<--
+16:04:08_almacen_ --> se edito repuesto:salida:94:5<--
+16:04:13_almacen_ --> se edito repuesto:entrada:94:4<--
+16:04:37_almacen_ --> se edito repuesto:salida:94:26<--
+16:04:45_almacen_ --> se edito repuesto:salida:94:26<--
+16:04:49_almacen_ --> se edito repuesto:entrada:94:26<--
+16:04:53_almacen_ --> se edito repuesto:salida:94:4<--
+16:04:57_almacen_ --> se edito repuesto:entrada:94:25<--
+16:05:40_almacen_ --> se imprimen variables para remision <--
+16:08:52_almacen_ --> se imprimen variables para remision <--
+16:10:16_almacen_ --> se carga el informe <--
+16:10:16_almacen_ --> se imprimen variables para remision <--
+16:10:16_almacen_ --> se carga el informe <--
+16:10:18_almacen_ --> se imprimen variables para remision <--
+16:12:39_almacen_ --> se imprimen variables para remision <--

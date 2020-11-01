@@ -1,0 +1,42 @@
+09:33:06_almacen_ --> se logueo<--
+09:33:08_almacen_ --> se carga el informe <--
+09:35:16_almacen_ --> se carga el informe <--
+09:35:18_almacen_ --> se imprimen variables para remision <--
+09:35:39_almacen_ --> se imprimen variables para remision <--
+09:35:39_almacen_ --> se carga el informe <--
+09:35:39_almacen_ --> se carga el informe <--
+09:35:40_almacen_ --> se imprimen variables para remision <--
+09:35:50_almacen_ --> se carga el informe <--
+09:35:51_almacen_ --> se imprimen variables para ingreso <--
+09:36:52_391_ --> se carga el informe <--
+09:36:53_391_ --> se imprimen variables para remision <--
+09:36:59_391_ --> se imprimen variables para remision <--
+09:37:59_391_ --> se carga el informe <--
+11:30:40__ --> se imprimen variables para remision <--
+11:33:31__ --> se imprimen variables para remision <--
+11:37:49__ --> se imprimen variables para remision <--
+11:46:19__ --> se imprimen variables para remision <--
+15:32:01_almacen_ --> se logueo<--
+15:32:02_almacen_ --> se carga el informe <--
+15:32:08_almacen_ --> se imprimen variables para ingreso <--
+15:32:09_almacen_ --> se imprimen variables para remision <--
+15:32:09_almacen_ --> se imprimen variables para remision <--
+15:35:30_almacen_ --> se imprimen variables para remision <--
+15:41:31_almacen_ --> se carga el informe <--
+15:41:36_almacen_ --> se imprimen variables para remision <--
+15:57:32_almacen_ --> se imprimen variables para remision <--
+15:57:58_almacen_ --> se imprimen variables para remision <--
+16:17:49_almacen_ --> se carga el informe <--
+16:17:50_almacen_ --> se imprimen variables para remision <--
+16:17:53_almacen_ --> se carga el informe <--
+16:18:47_almacen_ --> se imprimen variables para remision <--
+16:19:01_almacen_ --> se carga el informe <--
+16:33:00_almacen_ --> se imprimen variables para ingreso <--
+16:33:02_almacen_ --> se imprimen variables para remision <--
+16:34:16_almacen_ --> se carga el informe <--
+16:34:16_almacen_ --> se imprimen variables para remision <--
+16:45:22_almacen_ --> se imprimen variables para remision <--
+16:45:26_almacen_ --> se imprimen variables para remision <--
+16:47:58_almacen_ --> se imprimen variables para remision <--
+16:48:04_almacen_ --> se carga el informe <--
+16:48:04_almacen_ --> se carga el informe <--

@@ -1,0 +1,110 @@
+body {
+    background: rgba(250,252,250,1)  
+}
+.contpes{
+    margin: 10px auto;
+    background: rgba(200,200,200,1);
+    color:rgba(0,0,0,1);
+    padding: 5px 5px 5px 5px;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.contpes .titulo{
+    font-size: 3.5ex;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#pestanas {
+    float: top;
+    font-size: 3ex;
+    font-weight: bold;
+}
+
+#pestanas ul{
+    margin-left: 0px;    
+}
+
+#pestanas li{
+    list-style-type: none;
+    float: left;
+    text-align: center;
+    margin: 0px 2px -2px -0px;
+    background: darkgrey;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border: 2px solid black;
+    border-bottom: dimgray;
+    padding: 0px 20px 0px 20px;
+}
+
+#pestanas a:link{
+    text-decoration: none;
+    color: rgba(0,0,0,1);
+	text-shadow:rgba(255,255,255,1) 1px 1px 1px;
+}
+
+#contenidopestanas{
+    clear: both;  
+    background: dimgray;
+    border-radius: 5px;
+    border-top-left-radius: 0px;
+     border: 2px solid black;
+   /* width: 900px;*/
+}
+
+#contenidopestanas div{
+}
+
+#pestanas #p1, #cpestana1{
+  background: rgba(255,255,255,1);
+}
+
+#pestanas #p2, #cpestana2{
+  background: rgba(255,255,255,1);
+}
+
+#pestanas #p3, #cpestana3{
+  background: rgba(255,255,255,1);
+}
+
+#pestanas #p4, #cpestana4{
+  background: rgba(255,255,255,1);
+}
+
+#pestanas #p5, #cpestana5{
+  background: rgba(255,255,255,1);
+}
+
+#pestanas #p6, #cpestana6{
+  background: rgba(255,255,255,1);
+}
+#pestanas #p7, #cpestana7{
+  background: rgba(255,255,255,1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

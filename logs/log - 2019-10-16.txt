@@ -1,0 +1,49 @@
+14:54:29_almacen_ --> se logueo<--
+14:54:30_almacen_ --> se carga el informe <--
+14:55:20_almacen_ --> se logueo<--
+14:55:21_almacen_ --> se carga el informe <--
+14:55:42_almacen_ --> se imprimen variables para remision <--
+14:57:44_almacen_ --> se carga el informe <--
+14:58:43_almacen_ --> se imprimen variables para remision <--
+14:59:17_almacen_ --> se imprimen variables para remision <--
+14:59:26_almacen_ --> se carga el informe <--
+14:59:36_almacen_ --> se carga el informe <--
+14:59:51_almacen_ --> se edito repuesto:refaccess:145:144<--
+15:00:00_almacen_ --> se edito repuesto:nombre:145:MAINBOARD<--
+15:00:52_almacen_ --> se imprimen variables para remision <--
+15:01:06_almacen_ --> se carga el informe <--
+15:01:21_almacen_ --> se edito repuesto:nombre:145:mainboard<--
+15:01:29_almacen_ --> se edito repuesto:observacion:145:lx300<--
+15:01:40_almacen_ --> se carga el informe <--
+15:01:43_almacen_ --> se imprimen variables para remision <--
+15:01:50_almacen_ --> se imprimen variables para remision <--
+15:01:57_almacen_ --> se carga el informe <--
+15:02:07_almacen_ --> se edito repuesto:nombre:145:biometrico<--
+15:03:07_almacen_ --> se imprimen variables para remision <--
+15:06:18_almacen_ --> se carga el informe <--
+15:09:18_almacen_ --> se imprimen variables para remision <--
+15:19:21_almacen_ --> Cerro la Session<--
+15:19:34_almacen_ --> se logueo<--
+15:19:34_almacen_ --> se carga el informe <--
+15:19:36_almacen_ --> se imprimen variables para remision <--
+15:20:42_almacen_ --> se carga el informe <--
+15:20:44_almacen_ --> se imprimen variables para remision <--
+15:22:27_almacen_ --> se imprimen variables para remision <--
+15:29:56_almacen_ --> se imprimen variables para remision <--
+15:29:56_almacen_ --> se imprimen variables para remision <--
+15:30:03_almacen_ --> se imprimen variables para remision <--
+15:30:08_almacen_ --> se imprimen variables para remision <--
+15:32:37_almacen_ --> se imprimen variables para remision <--
+15:36:35_almacen_ --> se imprimen variables para remision <--
+15:36:36_almacen_ --> se imprimen variables para remision <--
+15:42:13_almacen_ --> se imprimen variables para remision <--
+15:42:34_almacen_ --> se imprimen variables para remision <--
+15:43:28_almacen_ --> se imprimen variables para remision <--
+15:44:25_almacen_ --> se imprimen variables para remision <--
+15:45:27_almacen_ --> se imprimen variables para remision <--
+15:46:32_almacen_ --> se imprimen variables para ingreso <--
+15:46:44_almacen_ --> se imprimen variables para remision <--
+15:47:17_almacen_ --> se imprimen variables para remision <--
+15:47:47_almacen_ --> se carga el informe <--
+15:47:49_almacen_ --> se imprimen variables para remision <--
+15:48:18_almacen_ --> se carga el informe <--

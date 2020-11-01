@@ -1,0 +1,11 @@
+10:44:10__ --> Cerro la Session<--
+10:44:14_almacen_ --> se logueo<--
+10:44:14_almacen_ --> se carga el informe <--
+10:44:37_almacen_ --> se edito repuesto:estado:150:activo<--
+10:44:41_almacen_ --> se edito repuesto:modelo:150:T1000
+<--
+11:13:42__ --> se imprimen variables para remision <--
+11:16:45_almacen_ --> se logueo<--
+11:16:46_almacen_ --> se carga el informe <--
+11:42:58_almacen_ --> se carga el informe <--
+11:43:00_almacen_ --> se imprimen variables para remision <--

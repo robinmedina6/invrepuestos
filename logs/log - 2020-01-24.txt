@@ -1,0 +1,22 @@
+16:13:13_4604_ --> se carga el informe <--
+16:56:03__ --> Cerro la Session<--
+16:56:06_almacen_ --> se logueo<--
+16:56:06_almacen_ --> se carga el informe <--
+16:56:14_almacen_ --> se edito repuesto:cantidad:33:-1<--
+16:56:27_almacen_ --> se edito repuesto:cantidad:33:0<--
+16:56:30_almacen_ --> se edito repuesto:salida:33:22<--
+16:56:36_almacen_ --> se edito repuesto:entrada:33:22<--
+16:56:45_almacen_ --> se edito repuesto:cantidad:51:0<--
+16:56:51_almacen_ --> se edito repuesto:salida:51:45<--
+16:56:53_almacen_ --> se edito repuesto:entrada:51:45<--
+16:57:04_almacen_ --> se edito repuesto:cantidad:67:1<--
+16:57:06_almacen_ --> se edito repuesto:salida:67:33<--
+16:57:07_almacen_ --> se edito repuesto:entrada:67:5<--
+16:57:10_almacen_ --> se edito repuesto:salida:67:33<--
+16:57:12_almacen_ --> se edito repuesto:cantidad:67:0<--
+16:57:16_almacen_ --> se edito repuesto:salida:67:33<--
+16:57:20_almacen_ --> se edito repuesto:entrada:67:33<--
+16:57:56_almacen_ --> se edito repuesto:cantidad:114:-1<--
+16:58:07_almacen_ --> se edito repuesto:cantidad:122:1<--
+16:58:09_almacen_ --> se edito repuesto:salida:122:10<--
+16:58:13_almacen_ --> se edito repuesto:entrada:122:11<--

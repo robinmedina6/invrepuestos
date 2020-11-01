@@ -1,0 +1,20 @@
+17:39:25__ --> Cerro la Session<--
+17:39:25__ --> Cerro la Session<--
+17:39:36_almacen_ --> se logueo<--
+17:39:37_almacen_ --> se carga el informe <--
+18:04:05_almacen_ --> se edito repuesto:cantidad:17:16
+<--
+18:17:52_almacen_ --> se imprimen variables para remision <--
+18:17:54_almacen_ --> se imprimen variables para ingreso <--
+18:18:02_almacen_ --> se carga el informe <--
+18:19:26_almacen_ --> se imprimen variables para remision <--
+18:19:31_almacen_ --> se carga el informe <--
+18:19:39_almacen_ --> se edito repuesto:nombre:124:KIT GEAR ASSY EPSON LX 350<--
+18:20:30_almacen_ --> se imprimen variables para ingreso <--
+18:20:56_almacen_ --> se carga el informe <--
+18:21:01_almacen_ --> se imprimen variables para ingreso <--
+18:26:27_almacen_ --> se imprimen variables para remision <--
+18:26:38_almacen_ --> se imprimen variables para ingreso <--
+18:30:22_almacen_ --> se imprimen variables para remision <--
+18:32:03_almacen_ --> se imprimen variables para remision <--
+18:33:26_almacen_ --> se imprimen variables para remision <--

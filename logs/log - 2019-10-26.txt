@@ -1,0 +1,308 @@
+08:50:17_almacen_ --> se logueo<--
+08:50:17_almacen_ --> se carga el informe <--
+08:50:43_almacen_ --> se imprimen variables para ingreso <--
+08:50:48_almacen_ --> se imprimen variables para remision <--
+08:50:49_almacen_ --> se carga el informe <--
+08:50:49_almacen_ --> se carga el informe <--
+08:51:01_almacen_ --> se imprimen variables para remision <--
+08:52:01_almacen_ --> se carga el informe <--
+08:52:08_almacen_ --> se imprimen variables para remision <--
+08:52:10_almacen_ --> se carga el informe <--
+08:52:29_almacen_ --> se edito repuesto:nombre:143:DISCO DURO SATA usado<--
+08:52:45_almacen_ --> se edito repuesto:nombre:143:DISCO DURO SATA<--
+08:52:52_almacen_ --> se imprimen variables para remision <--
+08:52:53_almacen_ --> se imprimen variables para remision <--
+08:53:17_almacen_ --> se carga el informe <--
+08:53:51_almacen_ --> se edito repuesto:nombre:93:PRINTER ROLL SET CREON / T700<--
+08:53:59_almacen_ --> se edito repuesto:nombre:94:PRINTER ROLL SET T1000<--
+08:54:05_almacen_ --> se imprimen variables para remision <--
+08:55:53_almacen_ --> se imprimen variables para remision <--
+08:55:54_almacen_ --> se imprimen variables para remision <--
+08:55:57_almacen_ --> se carga el informe <--
+08:56:05_almacen_ --> se edito repuesto:nombre:148:PRINTER ROLL SET CREON usado<--
+08:57:10_almacen_ --> se carga el informe <--
+09:02:16_almacen_ --> se imprimen variables para remision <--
+09:02:34_almacen_ --> se imprimen variables para remision <--
+10:04:22__ --> se imprimen variables para remision <--
+10:04:22__ --> se imprimen variables para remision <--
+10:04:51__ --> se imprimen variables para remision <--
+10:04:51__ --> se imprimen variables para remision <--
+10:05:00__ --> se carga el informe <--
+10:06:08__ --> Cerro la Session<--
+10:06:13__ --> Cerro la Session<--
+10:06:17_almacen_ --> se logueo<--
+10:06:17_almacen_ --> se carga el informe <--
+12:23:50_almacen_ --> se logueo<--
+12:23:51_almacen_ --> se carga el informe <--
+14:56:18__ --> Cerro la Session<--
+14:56:22_almacen_ --> se logueo<--
+14:56:22_almacen_ --> se carga el informe <--
+15:02:54_almacen_ --> se carga el informe <--
+15:03:38_almacen_ --> se carga el informe <--
+15:03:51_almacen_ --> se edito repuesto:estado:1:Inactivo<--
+15:03:56_almacen_ --> se edito repuesto:estado:1:inactivo<--
+15:04:01_almacen_ --> se edito repuesto:estado:1:inactivo<--
+15:04:40_almacen_ --> se carga el informe <--
+15:04:52_almacen_ --> se carga el informe <--
+15:06:14_almacen_ --> se carga el informe <--
+15:06:26_almacen_ --> se edito repuesto:estado:2:INACTIVO<--
+15:06:31_almacen_ --> se edito repuesto:estado:2:inactivo<--
+15:06:44_almacen_ --> se edito repuesto:estado:3:inactivo<--
+15:07:13_almacen_ --> se edito repuesto:estado:4:<--
+15:07:20_almacen_ --> se edito repuesto:estado:5:inactivo<--
+15:08:01_almacen_ --> se edito repuesto:estado:6:inactivo<--
+15:12:13_almacen_ --> se edito repuesto:estado:2:<--
+15:12:29_almacen_ --> se edito repuesto:estado:2:<--
+15:12:36_almacen_ --> se carga el informe <--
+15:12:40_almacen_ --> se edito repuesto:estado:2:inactivo<--
+15:12:47_almacen_ --> se edito repuesto:estado:7:inactivo<--
+15:12:54_almacen_ --> se edito repuesto:estado:7:<--
+15:13:00_almacen_ --> se edito repuesto:estado:4:activo<--
+15:13:03_almacen_ --> se edito repuesto:estado:7:activo<--
+15:13:12_almacen_ --> se edito repuesto:estado:8:inactivo<--
+15:13:20_almacen_ --> se edito repuesto:estado:9:<--
+15:13:31_almacen_ --> se edito repuesto:entrada:9:161<--
+15:13:35_almacen_ --> se edito repuesto:cantidad:9:0<--
+15:13:46_almacen_ --> se edito repuesto:estado:9:<--
+15:13:53_almacen_ --> se edito repuesto:estado:9:activo<--
+15:14:02_almacen_ --> se edito repuesto:estado:10:inactivo<--
+15:14:12_almacen_ --> se edito repuesto:estado:11:activo<--
+15:14:18_almacen_ --> se edito repuesto:estado:12:activo<--
+15:14:23_almacen_ --> se edito repuesto:estado:13:inactivo<--
+15:14:27_almacen_ --> se edito repuesto:estado:14:inactivo<--
+15:14:31_almacen_ --> se edito repuesto:estado:15:inactvo<--
+15:14:40_almacen_ --> se edito repuesto:estado:15:inactivo<--
+15:14:45_almacen_ --> se edito repuesto:estado:16:inactivo<--
+15:14:54_almacen_ --> se edito repuesto:estado:17:activo<--
+15:15:03_almacen_ --> se edito repuesto:estado:18:activo<--
+15:15:09_almacen_ --> se edito repuesto:estado:19:<--
+15:19:49_almacen_ --> se edito repuesto:estado:19:activo<--
+15:19:53_almacen_ --> se edito repuesto:estado:20:ativo<--
+15:19:58_almacen_ --> se edito repuesto:estado:20:activo<--
+15:20:20_almacen_ --> se edito repuesto:estado:21:activo<--
+15:20:29_almacen_ --> se edito repuesto:estado:22:<--
+15:20:47_almacen_ --> se edito repuesto:estado:23:inactivo<--
+15:20:53_almacen_ --> se edito repuesto:estado:22:activo<--
+15:20:57_almacen_ --> se edito repuesto:estado:24:activo<--
+15:21:03_almacen_ --> se edito repuesto:estado:25:inactivo<--
+15:21:18_almacen_ --> se edito repuesto:estado:26:inactivo<--
+15:21:24_almacen_ --> se edito repuesto:estado:27:<--
+15:21:41_almacen_ --> se edito repuesto:estado:27:activo<--
+15:21:54_almacen_ --> se edito repuesto:estado:28:<--
+15:22:00_almacen_ --> se edito repuesto:entrada:28:15<--
+15:22:04_almacen_ --> se edito repuesto:cantidad:28:0<--
+15:22:09_almacen_ --> se edito repuesto:estado:28:activo<--
+15:22:25_almacen_ --> se edito repuesto:estado:29:activo<--
+15:22:31_almacen_ --> se edito repuesto:estado:30:inactivo<--
+15:22:34_almacen_ --> se edito repuesto:cantidad:30:0<--
+15:22:41_almacen_ --> se edito repuesto:estado:31:activo<--
+15:22:47_almacen_ --> se edito repuesto:estado:32:inactivo<--
+15:22:50_almacen_ --> se edito repuesto:cantidad:32:0<--
+15:22:52_almacen_ --> se edito repuesto:cantidad:33:2<--
+15:22:58_almacen_ --> se edito repuesto:estado:33:activo<--
+15:23:05_almacen_ --> se edito repuesto:estado:34:inactivo<--
+15:23:08_almacen_ --> se edito repuesto:cantidad:34:0<--
+15:23:18_almacen_ --> se edito repuesto:estado:35:inactivo<--
+15:23:27_almacen_ --> se edito repuesto:estado:36:activo<--
+15:23:33_almacen_ --> se edito repuesto:estado:37:inactivo<--
+15:23:43_almacen_ --> se edito repuesto:estado:38:inactivo<--
+15:24:01_almacen_ --> se edito repuesto:estado:39:<--
+15:24:04_almacen_ --> se edito repuesto:cantidad:39:0<--
+15:24:08_almacen_ --> se edito repuesto:estado:39:inactivo<--
+15:24:15_almacen_ --> se edito repuesto:estado:40:activo<--
+15:24:25_almacen_ --> se edito repuesto:estado:41:activo<--
+15:24:41_almacen_ --> se edito repuesto:estado:42:<--
+15:24:45_almacen_ --> se edito repuesto:entrada:42:44<--
+15:24:54_almacen_ --> se edito repuesto:cantidad:42:0<--
+15:24:58_almacen_ --> se edito repuesto:estado:42:activo<--
+15:25:02_almacen_ --> se edito repuesto:estado:43:activo<--
+15:25:11_almacen_ --> se edito repuesto:entrada:43:2<--
+15:25:21_almacen_ --> se edito repuesto:estado:44:activo<--
+15:25:26_almacen_ --> se edito repuesto:estado:45:inactivo<--
+15:25:32_almacen_ --> se edito repuesto:estado:46:inactivo<--
+15:25:37_almacen_ --> se edito repuesto:estado:47:inactivo<--
+15:25:41_almacen_ --> se edito repuesto:estado:48:inactivo<--
+15:25:46_almacen_ --> se edito repuesto:cantidad:48:15<--
+15:25:54_almacen_ --> se edito repuesto:estado:49:inactivo<--
+15:26:00_almacen_ --> se edito repuesto:estado:50:inactivo<--
+15:26:17_almacen_ --> se edito repuesto:estado:51:activo<--
+15:26:25_almacen_ --> se edito repuesto:estado:52:activo<--
+15:26:31_almacen_ --> se edito repuesto:estado:53:activo<--
+15:26:34_almacen_ --> se edito repuesto:estado:54:activo<--
+15:26:40_almacen_ --> se edito repuesto:estado:55:activo<--
+15:26:48_almacen_ --> se edito repuesto:estado:56:inactivo<--
+15:26:59_almacen_ --> se edito repuesto:estado:57:inactivo<--
+15:27:01_almacen_ --> se edito repuesto:estado:57:inactivo<--
+15:27:05_almacen_ --> se edito repuesto:estado:58:activo<--
+15:27:39_almacen_ --> se edito repuesto:cantidad:58:6<--
+15:27:52_almacen_ --> se edito repuesto:entrada:58:70<--
+15:27:57_almacen_ --> se edito repuesto:cantidad:58:14<--
+15:28:08_almacen_ --> se edito repuesto:entrada:58:91<--
+15:28:34_almacen_ --> se edito repuesto:estado:59:inactivo<--
+15:28:41_almacen_ --> se edito repuesto:estado:60:<--
+15:28:49_almacen_ --> se edito repuesto:estado:60:activo<--
+15:28:55_almacen_ --> se edito repuesto:estado:61:activo<--
+15:29:00_almacen_ --> se edito repuesto:estado:62:inactivo<--
+15:29:06_almacen_ --> se edito repuesto:estado:63:inactivo<--
+15:29:17_almacen_ --> se edito repuesto:estado:64:activo<--
+15:29:27_almacen_ --> se edito repuesto:estado:65:activo<--
+15:29:37_almacen_ --> se edito repuesto:estado:66:activo<--
+15:29:42_almacen_ --> se edito repuesto:estado:67:activo<--
+15:29:51_almacen_ --> se edito repuesto:estado:68:activo<--
+15:29:55_almacen_ --> se edito repuesto:estado:69:activo<--
+15:30:01_almacen_ --> se edito repuesto:estado:70:activo<--
+15:30:06_almacen_ --> se edito repuesto:estado:71:activo<--
+15:30:10_almacen_ --> se edito repuesto:estado:72:activo<--
+15:30:14_almacen_ --> se edito repuesto:estado:73:activo<--
+15:30:17_almacen_ --> se edito repuesto:estado:74:<--
+15:30:18_almacen_ --> se edito repuesto:cantidad:73:4<--
+15:30:20_almacen_ --> se edito repuesto:entrada:73:4<--
+15:30:26_almacen_ --> se edito repuesto:estado:74:activo<--
+15:30:28_almacen_ --> se edito repuesto:entrada:74:1<--
+15:30:32_almacen_ --> se edito repuesto:estado:75:activo<--
+15:30:42_almacen_ --> se edito repuesto:estado:75:inactivo<--
+15:30:47_almacen_ --> se edito repuesto:estado:76:activo<--
+15:30:50_almacen_ --> se edito repuesto:estado:77:inactivo<--
+15:30:53_almacen_ --> se edito repuesto:cantidad:77:0<--
+15:31:05_almacen_ --> se edito repuesto:estado:78:activo<--
+15:31:10_almacen_ --> se edito repuesto:estado:79:inactivo<--
+15:31:17_almacen_ --> se edito repuesto:estado:79:activo<--
+15:31:26_almacen_ --> se edito repuesto:estado:80:inactivo<--
+15:31:30_almacen_ --> se edito repuesto:cantidad:80:0<--
+15:31:48_almacen_ --> se edito repuesto:estado:81:inactivo<--
+15:31:55_almacen_ --> se edito repuesto:cantidad:81:20<--
+15:32:01_almacen_ --> se edito repuesto:entrada:81:20<--
+15:32:04_almacen_ --> se edito repuesto:cantidad:81:0<--
+15:32:07_almacen_ --> se edito repuesto:estado:82:<--
+15:32:14_almacen_ --> se edito repuesto:entrada:81:0<--
+15:32:20_almacen_ --> se edito repuesto:estado:82:activo<--
+15:32:26_almacen_ --> se edito repuesto:entrada:82:1<--
+15:32:29_almacen_ --> se edito repuesto:entrada:82:2<--
+15:32:35_almacen_ --> se edito repuesto:estado:83:activo<--
+15:32:41_almacen_ --> se edito repuesto:estado:84:activo<--
+15:32:45_almacen_ --> se edito repuesto:cantidad:84:34<--
+15:32:53_almacen_ --> se edito repuesto:entrada:84:41<--
+15:33:06_almacen_ --> se edito repuesto:estado:85:activo<--
+15:33:11_almacen_ --> se edito repuesto:estado:86:activo<--
+15:33:15_almacen_ --> se edito repuesto:estado:87:activo<--
+15:33:18_almacen_ --> se edito repuesto:estado:88:activo<--
+15:33:31_almacen_ --> se edito repuesto:estado:86:inactivo
+<--
+15:33:40_almacen_ --> se edito repuesto:estado:85:inactivo<--
+15:33:45_almacen_ --> se edito repuesto:estado:89:activo<--
+15:33:51_almacen_ --> se edito repuesto:estado:90:activo
+<--
+15:33:59_almacen_ --> se edito repuesto:estado:91:activo<--
+15:34:04_almacen_ --> se edito repuesto:estado:92:activo<--
+15:34:06_almacen_ --> se edito repuesto:estado:93:activo<--
+15:34:10_almacen_ --> se edito repuesto:estado:94:activo<--
+15:34:16_almacen_ --> se edito repuesto:estado:95:activo<--
+15:34:20_almacen_ --> se edito repuesto:estado:96:activo<--
+15:34:26_almacen_ --> se edito repuesto:estado:97:activo<--
+15:34:30_almacen_ --> se edito repuesto:estado:98:<--
+15:34:33_almacen_ --> se edito repuesto:estado:97:inactivo<--
+15:34:42_almacen_ --> se edito repuesto:estado:98:inactivo<--
+15:34:47_almacen_ --> se edito repuesto:estado:99:inactivo<--
+15:34:53_almacen_ --> se edito repuesto:cantidad:99:2<--
+15:34:59_almacen_ --> se edito repuesto:estado:100:inactivo<--
+15:35:08_almacen_ --> se edito repuesto:estado:101:inactivo<--
+15:35:17_almacen_ --> se edito repuesto:estado:102:activo<--
+15:35:25_almacen_ --> se edito repuesto:estado:103:inactivo<--
+15:35:27_almacen_ --> se edito repuesto:cantidad:103:0<--
+15:35:33_almacen_ --> se edito repuesto:estado:104:inactivo<--
+15:35:37_almacen_ --> se edito repuesto:cantidad:104:0<--
+15:36:03_almacen_ --> se edito repuesto:estado:105:<--
+15:36:09_almacen_ --> se edito repuesto:cantidad:105:18<--
+15:36:17_almacen_ --> se edito repuesto:estado:105:activo<--
+15:36:23_almacen_ --> se edito repuesto:estado:106:inactivo<--
+15:36:27_almacen_ --> se edito repuesto:cantidad:106:0<--
+15:36:40_almacen_ --> se edito repuesto:estado:107:activo<--
+15:36:56_almacen_ --> se edito repuesto:estado:108:activo<--
+15:37:00_almacen_ --> se edito repuesto:cantidad:108:9<--
+15:37:11_almacen_ --> se edito repuesto:estado:109:<--
+15:37:15_almacen_ --> se edito repuesto:cantidad:109:3<--
+15:37:30_almacen_ --> se edito repuesto:estado:109:activo<--
+15:37:36_almacen_ --> se edito repuesto:estado:110:activo<--
+15:40:21_almacen_ --> se edito repuesto:estado:111:activo<--
+15:40:53_almacen_ --> se edito repuesto:estado:112:<--
+15:40:59_almacen_ --> se edito repuesto:cantidad:112:5<--
+15:41:08_almacen_ --> se edito repuesto:estado:112:activo<--
+15:41:13_almacen_ --> se edito repuesto:estado:113:inactivo<--
+15:41:18_almacen_ --> se edito repuesto:estado:113:activo<--
+15:41:22_almacen_ --> se edito repuesto:estado:114:<--
+15:41:23_almacen_ --> se edito repuesto:cantidad:114:0<--
+15:41:32_almacen_ --> se edito repuesto:entrada:114:10<--
+15:41:36_almacen_ --> se edito repuesto:estado:114:activo<--
+15:41:40_almacen_ --> se edito repuesto:estado:115:activo<--
+15:41:46_almacen_ --> se edito repuesto:cantidad:115:0<--
+15:41:53_almacen_ --> se edito repuesto:estado:116:activo<--
+15:41:58_almacen_ --> se edito repuesto:estado:117:activo<--
+15:42:03_almacen_ --> se edito repuesto:estado:118:activo<--
+15:42:07_almacen_ --> se edito repuesto:estado:119:activo<--
+15:42:09_almacen_ --> se edito repuesto:estado:120:activo<--
+15:42:15_almacen_ --> se edito repuesto:estado:122:activo<--
+15:42:19_almacen_ --> se edito repuesto:estado:123:activo<--
+15:42:23_almacen_ --> se edito repuesto:estado:124:activo<--
+15:42:26_almacen_ --> se edito repuesto:estado:125:activo<--
+15:42:32_almacen_ --> se edito repuesto:estado:126:activo<--
+15:42:36_almacen_ --> se edito repuesto:estado:127:activo<--
+15:42:40_almacen_ --> se edito repuesto:estado:128:activo<--
+15:42:43_almacen_ --> se edito repuesto:estado:129:activo<--
+15:42:46_almacen_ --> se edito repuesto:estado:130:activo<--
+15:42:51_almacen_ --> se edito repuesto:estado:131:activo<--
+15:42:57_almacen_ --> se edito repuesto:estado:132:activo<--
+15:45:02_almacen_ --> se edito repuesto:estado:133:<--
+15:45:03_almacen_ --> se edito repuesto:cantidad:133:4<--
+15:45:55_almacen_ --> se edito repuesto:estado:133:activo<--
+15:45:57_almacen_ --> se edito repuesto:cantidad:133:4<--
+15:46:00_almacen_ --> se edito repuesto:cantidad:133:2<--
+15:46:02_almacen_ --> se edito repuesto:entrada:133:2<--
+15:49:23_almacen_ --> se edito repuesto:estado:134:<--
+15:49:56_almacen_ --> se edito repuesto:estado:134:activo<--
+15:50:04_almacen_ --> se edito repuesto:estado:135:inactivo<--
+15:50:18_almacen_ --> se edito repuesto:estado:136:inactiva
+<--
+15:50:23_almacen_ --> se edito repuesto:estado:137:activo<--
+15:50:34_almacen_ --> se edito repuesto:estado:136:activo<--
+15:50:39_almacen_ --> se edito repuesto:estado:138:activo<--
+15:50:46_almacen_ --> se edito repuesto:estado:139:ativo<--
+15:50:53_almacen_ --> se edito repuesto:estado:140:inativo<--
+15:50:58_almacen_ --> se edito repuesto:cantidad:140:0<--
+15:51:01_almacen_ --> se edito repuesto:salida:140:2<--
+15:51:04_almacen_ --> se edito repuesto:entrada:140:1<--
+15:51:06_almacen_ --> se edito repuesto:salida:140:1<--
+15:51:12_almacen_ --> se edito repuesto:estado:141:<--
+15:51:14_almacen_ --> se edito repuesto:cantidad:141:3<--
+15:51:18_almacen_ --> se edito repuesto:estado:141:inactivo<--
+15:51:22_almacen_ --> se edito repuesto:estado:141:activo<--
+15:51:26_almacen_ --> se edito repuesto:estado:142:activo<--
+15:51:33_almacen_ --> se edito repuesto:estado:143:activo<--
+15:51:36_almacen_ --> se edito repuesto:estado:144:activo<--
+15:51:46_almacen_ --> se edito repuesto:estado:146:<--
+15:52:34_almacen_ --> se edito repuesto:estado:146:activo<--
+15:52:40_almacen_ --> se edito repuesto:estado:147:activo<--
+15:52:43_almacen_ --> se edito repuesto:estado:148:activo<--
+16:01:11_almacen_ --> se carga el informe <--
+16:01:47_almacen_ --> se imprimen variables para remision <--
+16:01:48_almacen_ --> se imprimen variables para remision <--
+16:01:50_almacen_ --> se imprimen variables para ingreso <--
+16:05:45_almacen_ --> se edito repuesto:estado:139:activo<--
+16:05:54_almacen_ --> se edito repuesto:estado:140:inactivo<--
+16:06:32_almacen_ --> se imprimen variables para ingreso <--
+16:07:19_almacen_ --> se carga el informe <--
+16:07:20_almacen_ --> se carga el informe <--
+16:12:14_almacen_ --> se imprimen variables para ingreso <--
+16:12:14_almacen_ --> se imprimen variables para ingreso <--
+16:12:31_almacen_ --> se carga el informe <--
+16:12:51_almacen_ --> se edito repuesto:nombre:147:DISCO DURO SATA PORTATIL usado<--
+16:13:33_almacen_ --> se edito repuesto:cantidad:144:1<--
+16:14:30_almacen_ --> se edito repuesto:modelo:142:T700<--
+16:14:35_almacen_ --> se edito repuesto:modelo:143:<--
+16:14:38_almacen_ --> se edito repuesto:modelo:143:PC<--
+16:14:46_almacen_ --> se edito repuesto:modelo:144:TMT20<--
+16:14:51_almacen_ --> se edito repuesto:modelo:146:T700<--
+16:14:57_almacen_ --> se edito repuesto:modelo:147:PORTATIL<--
+16:15:15_almacen_ --> se edito repuesto:modelo:148:CREON<
+<--
+16:18:04_almacen_ --> se edito repuesto:cantidad:129:0<--
+16:18:06_almacen_ --> se edito repuesto:cantidad:125:0<--

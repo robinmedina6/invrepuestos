@@ -1,0 +1,6 @@
+17:14:37_10210_ --> se carga el informe <--
+17:14:40_10210_ --> se imprimen variables para remision <--
+18:00:01__ --> se carga el informe <--
+18:00:03__ --> se imprimen variables para ingreso <--
+18:26:10__ --> se imprimen variables para ingreso <--
+18:32:33__ --> se imprimen variables para ingreso <--

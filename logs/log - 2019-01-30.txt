@@ -1,0 +1,202 @@
+10:24:55__ --> Cerro la Session<--
+10:24:55__ --> Cerro la Session<--
+10:24:58_almacen_ --> se logueo<--
+10:24:58_almacen_ --> se carga el informe <--
+10:25:29_almacen_ --> se imprimen variables para remision <--
+10:36:41_almacen_ --> se imprimen variables para remision <--
+14:40:49__ --> se imprimen variables para ingreso <--
+14:42:15__ --> se imprimen variables para remision <--
+14:42:15__ --> se imprimen variables para ingreso <--
+15:11:11__ --> Cerro la Session<--
+15:11:11__ --> Cerro la Session<--
+15:11:14_almacen_ --> se logueo<--
+15:11:15_almacen_ --> se carga el informe <--
+15:16:47_almacen_ --> se edito repuesto:observacion:1:INSUMO<--
+15:16:54_almacen_ --> se edito repuesto:observacion:2:<--
+15:16:54_almacen_ --> se carga el informe <--
+15:17:17_almacen_ --> se edito repuesto:observacion:2:LX300<--
+15:17:30_almacen_ --> se edito repuesto:observacion:2:IMPRESORA<--
+15:20:12_almacen_ --> se carga el informe <--
+15:21:34_almacen_ --> se carga el informe <--
+15:21:35_almacen_ --> se carga el informe <--
+15:27:27_almacen_ --> se carga el informe <--
+15:28:32_almacen_ --> se carga el informe <--
+15:29:00_almacen_ --> se carga el informe <--
+15:29:00_almacen_ --> se carga el informe <--
+15:29:01_almacen_ --> se carga el informe <--
+15:29:06_almacen_ --> se edito repuesto:modelo:1:<--
+15:29:23_almacen_ --> se edito repuesto:modelo:1:INSUMO<--
+15:29:25_almacen_ --> se carga el informe <--
+15:29:30_almacen_ --> se edito repuesto:modelo:2:LX300<--
+15:29:39_almacen_ --> se edito repuesto:modelo:3:<--
+15:29:41_almacen_ --> se edito repuesto:nombre:3:ANTENA EXTERNA<--
+15:29:48_almacen_ --> se edito repuesto:nombre:3:ANTENA EXTERNA<--
+15:30:00_almacen_ --> se edito repuesto:nombre:3:ANTENA EXTERNA CREON<--
+15:30:04_almacen_ --> se edito repuesto:modelo:3:CREON<--
+15:30:11_almacen_ --> se edito repuesto:modelo:4:T700<--
+15:31:45_almacen_ --> se edito repuesto:modelo:5:<--
+15:31:51_almacen_ --> se edito repuesto:nombre:5:BANDEJA GUIA PAPEL LX300<--
+15:31:56_almacen_ --> se edito repuesto:modelo:5:LX300<--
+15:32:08_almacen_ --> se edito repuesto:modelo:6:MONITOR<--
+15:32:13_almacen_ --> se edito repuesto:modelo:7:CREON<--
+15:32:17_almacen_ --> se edito repuesto:modelo:8:CREON<--
+15:32:23_almacen_ --> se edito repuesto:modelo:9:T700<--
+15:32:27_almacen_ --> se edito repuesto:modelo:10:T700<--
+15:32:37_almacen_ --> se edito repuesto:modelo:11:<--
+15:32:41_almacen_ --> se edito repuesto:modelo:10:T700><--
+15:32:46_almacen_ --> se edito repuesto:modelo:9:T700><--
+15:32:53_almacen_ --> se edito repuesto:modelo:9:T700><--
+15:33:06_almacen_ --> se edito repuesto:modelo:11:<--
+15:33:10_almacen_ --> se edito repuesto:modelo:9:T700<<--
+15:33:11_almacen_ --> se edito repuesto:modelo:10:T700<<--
+15:33:15_almacen_ --> se edito repuesto:modelo:4:T700<<--
+15:33:26_almacen_ --> se edito repuesto:modelo:11:CREON<--
+15:33:38_almacen_ --> se edito repuesto:modelo:12:LX300<--
+15:33:42_almacen_ --> se edito repuesto:modelo:13:CREON<--
+15:33:44_almacen_ --> se edito repuesto:modelo:14:CREON<--
+15:33:47_almacen_ --> se edito repuesto:modelo:15:CREON<--
+15:33:50_almacen_ --> se edito repuesto:modelo:16:CREON<--
+15:33:54_almacen_ --> se edito repuesto:modelo:17:LX300<--
+15:33:57_almacen_ --> se edito repuesto:modelo:18:LX300<--
+15:34:03_almacen_ --> se edito repuesto:modelo:19:LX300<--
+15:34:07_almacen_ --> se edito repuesto:modelo:20:<--
+15:34:11_almacen_ --> se edito repuesto:nombre:18:BUS DE DATOS CABEZAL LX300<--
+15:34:16_almacen_ --> se edito repuesto:nombre:19:BUS DE DATOS HARNESS LX300<--
+15:34:37_almacen_ --> se edito repuesto:modelo:20:LX300<--
+15:34:41_almacen_ --> se edito repuesto:modelo:21:INSUMO<--
+15:34:44_almacen_ --> se edito repuesto:modelo:22:INSUMO<--
+15:34:48_almacen_ --> se edito repuesto:modelo:23:INSUMO<--
+15:34:53_almacen_ --> se edito repuesto:modelo:24:PC<--
+15:34:55_almacen_ --> se edito repuesto:modelo:25:<--
+15:35:00_almacen_ --> se edito repuesto:modelo:21:PC<--
+15:35:07_almacen_ --> se edito repuesto:modelo:25:PC<--
+15:35:21_almacen_ --> se edito repuesto:modelo:26:PC<--
+15:35:25_almacen_ --> se edito repuesto:modelo:27:IMPRESORA<--
+15:35:34_almacen_ --> se edito repuesto:modelo:28:MONITOR<--
+15:35:38_almacen_ --> se edito repuesto:modelo:29:PC<--
+15:35:42_almacen_ --> se edito repuesto:modelo:30:INSUMO<--
+15:35:44_almacen_ --> se edito repuesto:modelo:31:PC<--
+15:35:51_almacen_ --> se edito repuesto:modelo:31:CAMARA<--
+15:36:02_almacen_ --> se edito repuesto:modelo:32:CREON<--
+15:36:07_almacen_ --> se edito repuesto:modelo:33:T1000<--
+15:36:10_almacen_ --> se edito repuesto:modelo:34:CREON<--
+15:36:11_almacen_ --> se edito repuesto:nombre:35:CARCASA T700 COMPLETA <--
+15:36:14_almacen_ --> se edito repuesto:modelo:35:T700<--
+15:36:18_almacen_ --> se edito repuesto:modelo:36:CREON<--
+15:36:22_almacen_ --> se edito repuesto:modelo:37:MONITOR<--
+15:36:25_almacen_ --> se edito repuesto:modelo:38:PORTATIL<--
+15:36:32_almacen_ --> se edito repuesto:modelo:39:INSUMO<--
+15:36:38_almacen_ --> se edito repuesto:modelo:40:CREON<--
+15:36:45_almacen_ --> se edito repuesto:modelo:41:T1000<--
+15:36:49_almacen_ --> se edito repuesto:modelo:42:T700<--
+15:36:53_almacen_ --> se edito repuesto:modelo:43:T1000<--
+15:36:57_almacen_ --> se edito repuesto:modelo:44:LX300<--
+15:37:02_almacen_ --> se edito repuesto:modelo:45:LX300<--
+15:37:10_almacen_ --> se edito repuesto:modelo:46:TMU<--
+15:37:14_almacen_ --> se edito repuesto:modelo:47:<--
+15:37:16_almacen_ --> se edito repuesto:modelo:46:TMU<--
+15:37:23_almacen_ --> se edito repuesto:modelo:47:TMU220D<--
+15:37:39_almacen_ --> se edito repuesto:modelo:48:<--
+15:37:40_almacen_ --> se edito repuesto:modelo:50:<--
+15:37:43_almacen_ --> se edito repuesto:modelo:49:CREON<--
+15:37:46_almacen_ --> se edito repuesto:modelo:50:LX300<--
+15:37:51_almacen_ --> se edito repuesto:modelo:51:T700<--
+15:37:57_almacen_ --> se edito repuesto:modelo:52:T700<--
+15:38:02_almacen_ --> se edito repuesto:modelo:53:T800<--
+15:38:05_almacen_ --> se edito repuesto:modelo:54:DIADEMA<--
+15:38:11_almacen_ --> se edito repuesto:modelo:55:PORTATIL<--
+15:38:17_almacen_ --> se edito repuesto:modelo:56:PC<--
+15:38:23_almacen_ --> se edito repuesto:modelo:56:CLON<--
+15:38:28_almacen_ --> se edito repuesto:modelo:57:DVR<--
+15:38:37_almacen_ --> se edito repuesto:modelo:58:INSUMO<--
+15:38:41_almacen_ --> se edito repuesto:modelo:59:INSUMO<--
+15:38:47_almacen_ --> se edito repuesto:modelo:60:PC<--
+15:38:50_almacen_ --> se edito repuesto:modelo:61:LX300<--
+15:38:54_almacen_ --> se edito repuesto:modelo:62:LX300<--
+15:38:59_almacen_ --> se edito repuesto:modelo:63:INSUMO<--
+15:39:04_almacen_ --> se edito repuesto:modelo:64:LX300<--
+15:39:07_almacen_ --> se edito repuesto:modelo:65:CREON<--
+15:39:12_almacen_ --> se edito repuesto:modelo:66:T1000<--
+15:39:18_almacen_ --> se edito repuesto:modelo:67:T700<--
+15:39:28_almacen_ --> se edito repuesto:modelo:68:CREON<--
+15:39:33_almacen_ --> se edito repuesto:modelo:69:T1000<--
+15:39:37_almacen_ --> se edito repuesto:modelo:70:CREON<--
+15:39:40_almacen_ --> se edito repuesto:modelo:71:T1000<--
+15:39:44_almacen_ --> se edito repuesto:modelo:72:T700<--
+15:39:48_almacen_ --> se edito repuesto:modelo:73:T800<--
+15:39:52_almacen_ --> se edito repuesto:modelo:74:CREON<--
+15:40:02_almacen_ --> se edito repuesto:modelo:75:CLON<--
+15:40:05_almacen_ --> se edito repuesto:modelo:76:T1000<--
+15:40:12_almacen_ --> se edito repuesto:modelo:77:CREON<--
+15:40:17_almacen_ --> se edito repuesto:modelo:78:INSUMO<--
+15:40:22_almacen_ --> se edito repuesto:modelo:79:PC<--
+15:40:29_almacen_ --> se edito repuesto:modelo:80:INSUMO<--
+15:40:36_almacen_ --> se edito repuesto:modelo:81:PC<--
+15:40:40_almacen_ --> se edito repuesto:modelo:81:INSUMO<--
+15:40:44_almacen_ --> se edito repuesto:modelo:82:PC<--
+15:40:51_almacen_ --> se edito repuesto:modelo:83:LX300<--
+15:41:08_almacen_ --> se edito repuesto:modelo:84:SPECTRA<--
+15:41:12_almacen_ --> se edito repuesto:modelo:85:LX300<--
+15:41:15_almacen_ --> se edito repuesto:modelo:86:LX300<--
+15:41:18_almacen_ --> se edito repuesto:modelo:87:LX300<--
+15:41:20_almacen_ --> se edito repuesto:modelo:88:LX300<--
+15:41:26_almacen_ --> se edito repuesto:modelo:89:CREON<--
+15:41:31_almacen_ --> se edito repuesto:modelo:90:CREON<--
+15:41:32_almacen_ --> se edito repuesto:modelo:92:<--
+15:41:35_almacen_ --> se edito repuesto:modelo:91:T1000<--
+15:41:39_almacen_ --> se edito repuesto:modelo:92:T700<--
+15:41:47_almacen_ --> se edito repuesto:modelo:93:CREON<--
+15:41:57_almacen_ --> se edito repuesto:modelo:94:T1000<--
+15:43:45_almacen_ --> se edito repuesto:modelo:95:PC<--
+15:43:52_almacen_ --> se edito repuesto:modelo:96:LX300<--
+15:43:59_almacen_ --> se edito repuesto:modelo:97:INSUMO<--
+15:44:15_almacen_ --> se edito repuesto:modelo:98:<--
+15:44:21_almacen_ --> se edito repuesto:modelo:99:INTERNET<--
+15:44:30_almacen_ --> se edito repuesto:modelo:100:CREON<--
+15:44:34_almacen_ --> se edito repuesto:modelo:101:CREON<--
+15:44:47_almacen_ --> se edito repuesto:modelo:102:LX300<--
+15:44:51_almacen_ --> se edito repuesto:modelo:103:CREON<--
+15:44:52_almacen_ --> se edito repuesto:modelo:105:<--
+15:44:56_almacen_ --> se edito repuesto:modelo:104:T700<--
+15:45:01_almacen_ --> se edito repuesto:modelo:105:LX300<--
+15:45:08_almacen_ --> se edito repuesto:modelo:106:PC<--
+15:45:12_almacen_ --> se edito repuesto:modelo:107:CREON<--
+15:45:17_almacen_ --> se edito repuesto:modelo:108:T1000<--
+15:45:21_almacen_ --> se edito repuesto:modelo:109:T700<--
+15:45:24_almacen_ --> se edito repuesto:modelo:110:PC<--
+15:45:29_almacen_ --> se edito repuesto:modelo:111:LX300<--
+15:45:30_almacen_ --> se edito repuesto:modelo:113:<--
+15:45:33_almacen_ --> se edito repuesto:modelo:112:DVD<--
+15:45:35_almacen_ --> se edito repuesto:modelo:113:DVD<--
+15:45:41_almacen_ --> se edito repuesto:modelo:112:EXTERNA<--
+15:46:00_almacen_ --> se edito repuesto:modelo:113:PC<--
+15:46:05_almacen_ --> se edito repuesto:modelo:113:PC<--
+15:46:12_almacen_ --> se edito repuesto:modelo:114:UPS<--
+15:46:16_almacen_ --> se edito repuesto:modelo:115:PC<--
+15:46:20_almacen_ --> se edito repuesto:modelo:116:T700<--
+15:46:23_almacen_ --> se edito repuesto:modelo:117:T700<--
+15:46:26_almacen_ --> se edito repuesto:modelo:118:T1000<--
+15:46:30_almacen_ --> se edito repuesto:modelo:119:LX350<--
+15:46:34_almacen_ --> se edito repuesto:modelo:120:LX300<--
+15:46:38_almacen_ --> se edito repuesto:modelo:122:LX350<--
+15:46:43_almacen_ --> se edito repuesto:modelo:123:T1000<--
+15:46:46_almacen_ --> se edito repuesto:modelo:124:LX350<--
+15:46:58_almacen_ --> se edito repuesto:modelo:125:T700<--
+15:47:02_almacen_ --> se edito repuesto:modelo:126:T1000<--
+15:47:05_almacen_ --> se edito repuesto:modelo:127:T1000<--
+15:47:13_almacen_ --> se edito repuesto:modelo:128:<--
+15:47:17_almacen_ --> se edito repuesto:modelo:128:T1000<--
+15:47:21_almacen_ --> se edito repuesto:modelo:129:<--
+15:47:25_almacen_ --> se edito repuesto:nombre:128:NEW PRINTER ROLL SET T1000<--
+15:47:36_almacen_ --> se edito repuesto:modelo:129:T1000<--
+15:47:37_almacen_ --> se edito repuesto:modelo:130:<--
+15:47:59_almacen_ --> se edito repuesto:modelo:131:LX300<--
+15:48:09_almacen_ --> se edito repuesto:modelo:132:TP230<--
+15:48:14_almacen_ --> se edito repuesto:modelo:133:LX350<--
+15:48:33_almacen_ --> se edito repuesto:nombre:130:INTEGRADO U6 T700<--
+15:48:37_almacen_ --> se edito repuesto:modelo:130:T700<--
+15:50:08_almacen_ --> se carga el informe <--
+15:51:03_almacen_ --> se carga el informe <--
+15:53:49_almacen_ --> se edito repuesto:modelo:48:INSUMO<--
+15:54:08_almacen_ --> se edito repuesto:modelo:98:SPECTRA<--
+15:54:30_almacen_ --> se edito repuesto:nombre:98:RODILLOS PAPEL <--

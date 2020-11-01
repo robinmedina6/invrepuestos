@@ -1,0 +1,5 @@
+08:23:06__ --> se imprimen variables para remision <--
+08:23:36__ --> se imprimen variables para remision <--
+10:19:12_almacen_ --> se logueo<--
+10:19:13_almacen_ --> se carga el informe <--
+10:27:31_almacen_ --> se edito repuesto:estado:42:inactivo<--

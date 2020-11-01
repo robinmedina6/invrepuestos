@@ -1,0 +1,26 @@
+12:26:33__ --> Cerro la Session<--
+12:26:33__ --> Cerro la Session<--
+12:26:36_almacen_ --> se logueo<--
+12:26:36_almacen_ --> se carga el informe <--
+12:26:37_almacen_ --> se imprimen variables para remision <--
+12:26:38_almacen_ --> se carga el informe <--
+12:26:46_almacen_ --> se imprimen variables para remision <--
+12:27:13_almacen_ --> se imprimen variables para remision <--
+12:27:14_almacen_ --> se imprimen variables para remision <--
+12:27:16_almacen_ --> se imprimen variables para ingreso <--
+15:37:03_moniquira_ --> se carga el informe <--
+15:37:04_moniquira_ --> se imprimen variables para remision <--
+16:38:11_moniquira_ --> se carga el informe <--
+16:39:55_moniquira_ --> se edito repuesto:modelo:65:CREON<<--
+17:34:33__ --> Cerro la Session<--
+17:34:35_almacen_ --> se logueo<--
+17:34:35_almacen_ --> se carga el informe <--
+18:48:19_almacen_ --> se logueo<--
+18:48:19_almacen_ --> se carga el informe <--
+18:56:06_almacen_ --> se imprimen variables para remision <--
+18:56:08_almacen_ --> se imprimen variables para remision <--
+18:56:08_almacen_ --> se imprimen variables para ingreso <--
+18:59:35_almacen_ --> se imprimen variables para remision <--
+18:59:35_almacen_ --> se imprimen variables para remision <--
+19:02:08_almacen_ --> se imprimen variables para remision <--
+19:02:08_almacen_ --> se imprimen variables para remision <--

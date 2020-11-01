@@ -1,0 +1,5 @@
+11:30:12_almacen_ --> se logueo<--
+11:30:12_almacen_ --> se carga el informe <--
+11:51:28_almacen_ --> se edito repuesto:cantidad:92:2<--
+20:50:08_almacen_ --> se logueo<--
+20:50:10_almacen_ --> se carga el informe <--

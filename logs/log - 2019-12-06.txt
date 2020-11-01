@@ -1,0 +1,26 @@
+08:34:45__ --> se carga el informe <--
+08:34:46__ --> se imprimen variables para remision <--
+08:34:50__ --> se imprimen variables para remision <--
+08:34:55__ --> se imprimen variables para remision <--
+08:34:56__ --> se imprimen variables para remision <--
+08:36:08__ --> se imprimen variables para remision <--
+09:43:39__ --> se imprimen variables para ingreso <--
+09:44:35__ --> se imprimen variables para remision <--
+09:44:39__ --> se imprimen variables para ingreso <--
+09:45:11__ --> se imprimen variables para remision <--
+09:45:50__ --> se imprimen variables para remision <--
+16:23:52__ --> se carga el informe <--
+16:42:26__ --> se imprimen variables para remision <--
+16:43:10__ --> se imprimen variables para remision <--
+16:45:25__ --> se imprimen variables para remision <--
+16:52:13__ --> se imprimen variables para remision <--
+16:53:03__ --> se imprimen variables para remision <--
+16:54:51__ --> se imprimen variables para remision <--
+16:55:40__ --> se imprimen variables para remision <--
+16:55:40__ --> se imprimen variables para remision <--
+16:59:03__ --> se imprimen variables para remision <--
+17:44:10__ --> se imprimen variables para remision <--
+17:44:11__ --> se imprimen variables para remision <--
+17:45:35__ --> se imprimen variables para remision <--
+18:03:46__ --> se imprimen variables para remision <--
+18:12:27__ --> se imprimen variables para remision <--

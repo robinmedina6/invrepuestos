@@ -1,0 +1,28 @@
+15:27:00__ --> se imprimen variables para ingreso <--
+15:27:09__ --> se imprimen variables para ingreso <--
+15:27:10__ --> se imprimen variables para ingreso <--
+15:31:48__ --> Cerro la Session<--
+15:31:52_almacen_ --> se logueo<--
+15:31:52_almacen_ --> se carga el informe <--
+15:31:54_almacen_ --> se imprimen variables para ingreso <--
+15:32:25_almacen_ --> se imprimen variables para ingreso <--
+15:37:15_almacen_ --> se carga el informe <--
+15:37:16_almacen_ --> se imprimen variables para remision <--
+15:37:18_almacen_ --> se carga el informe <--
+15:37:20_almacen_ --> se imprimen variables para remision <--
+15:37:21_almacen_ --> se carga el informe <--
+15:37:24_almacen_ --> se imprimen variables para remision <--
+15:37:59_almacen_ --> se carga el informe <--
+15:38:10_almacen_ --> se edito repuesto:modelo:141:LX350<--
+15:38:15_almacen_ --> se edito repuesto:observacion:141:<--
+15:45:11_almacen_ --> se imprimen variables para remision <--
+15:45:17_almacen_ --> se imprimen variables para remision <--
+15:45:17_almacen_ --> se imprimen variables para ingreso <--
+16:30:10_almacen_ --> se imprimen variables para ingreso <--
+16:30:29_almacen_ --> se carga el informe <--
+16:30:33_almacen_ --> se imprimen variables para remision <--
+16:31:02_almacen_ --> se carga el informe <--
+16:31:03_almacen_ --> se imprimen variables para remision <--
+16:31:04_almacen_ --> se imprimen variables para ingreso <--
+16:31:08_almacen_ --> se imprimen variables para ingreso <--
+16:31:35_almacen_ --> se imprimen variables para ingreso <--

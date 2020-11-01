@@ -1,0 +1,5 @@
+00:58:41__ --> Cerro la Session<--
+08:49:28_almacen_ --> se logueo<--
+08:49:29_almacen_ --> se carga el informe <--
+14:21:56_almacen_ --> se logueo<--
+14:21:57_almacen_ --> se carga el informe <--

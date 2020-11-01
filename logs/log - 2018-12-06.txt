@@ -1,0 +1,49 @@
+12:07:30__ --> Cerro la Session<--
+12:08:26_almacen_ --> se logueo<--
+12:08:27_almacen_ --> se carga el informe <--
+12:08:34_almacen_ --> se imprimen variables para ingreso <--
+12:09:14_almacen_ --> se carga el informe <--
+12:09:15_almacen_ --> se imprimen variables para remision <--
+12:10:04_almacen_ --> se carga el informe <--
+12:14:15_almacen_ --> se imprimen variables para ingreso <--
+12:14:39_almacen_ --> se imprimen variables para ingreso <--
+12:17:52_almacen_ --> se carga el informe <--
+12:17:54_almacen_ --> se imprimen variables para remision <--
+12:17:58_almacen_ --> se carga el informe <--
+12:18:23_almacen_ --> se imprimen variables para remision <--
+12:18:57_almacen_ --> se carga el informe <--
+12:19:04_almacen_ --> se imprimen variables para remision <--
+12:20:04_almacen_ --> se imprimen variables para remision <--
+12:21:02_almacen_ --> se imprimen variables para remision <--
+12:21:34_almacen_ --> se imprimen variables para ingreso <--
+12:21:41_almacen_ --> se carga el informe <--
+12:22:00_almacen_ --> se imprimen variables para remision <--
+12:23:16_almacen_ --> se imprimen variables para remision <--
+12:23:44_almacen_ --> se imprimen variables para remision <--
+12:24:00_almacen_ --> se imprimen variables para remision <--
+12:24:01_almacen_ --> se imprimen variables para remision <--
+12:24:01_almacen_ --> se imprimen variables para ingreso <--
+12:28:53_almacen_ --> se carga el informe <--
+12:28:53_almacen_ --> se imprimen variables para remision <--
+12:28:54_almacen_ --> se imprimen variables para remision <--
+12:28:54_almacen_ --> se imprimen variables para ingreso <--
+12:28:54_almacen_ --> se carga el informe <--
+12:28:55_almacen_ --> se carga el informe <--
+12:28:55_almacen_ --> se imprimen variables para remision <--
+12:28:55_almacen_ --> se carga el informe <--
+12:32:54_almacen_ --> se imprimen variables para ingreso <--
+12:38:51_almacen_ --> se imprimen variables para ingreso <--
+12:39:14_almacen_ --> se carga el informe <--
+12:39:17_almacen_ --> se imprimen variables para ingreso <--
+16:38:36__ --> Cerro la Session<--
+16:38:38_almacen_ --> se logueo<--
+16:38:39_almacen_ --> se carga el informe <--
+16:38:41_almacen_ --> se imprimen variables para remision <--
+16:40:13_almacen_ --> se carga el informe <--
+16:40:39_almacen_ --> se imprimen variables para remision <--
+16:44:30_almacen_ --> se carga el informe <--
+17:15:43_almacen_ --> se logueo<--
+17:15:44_almacen_ --> se carga el informe <--
+17:15:45_almacen_ --> se imprimen variables para remision <--
+17:18:50_almacen_ --> se imprimen variables para remision <--
+17:19:31_almacen_ --> se imprimen variables para remision <--

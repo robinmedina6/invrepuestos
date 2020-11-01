@@ -1,0 +1,4 @@
+14:56:39_19290_ --> se carga el informe <--
+14:56:51_19290_ --> se carga el informe <--
+15:03:25_19290_ --> se imprimen variables para remision <--
+15:03:29_19290_ --> se imprimen variables para ingreso <--

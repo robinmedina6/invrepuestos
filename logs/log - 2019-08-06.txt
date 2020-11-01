@@ -1,0 +1,18 @@
+14:21:56_almacen_ --> se logueo<--
+14:21:56_almacen_ --> se carga el informe <--
+14:22:25_almacen_ --> se imprimen variables para remision <--
+14:27:53_almacen_ --> se carga el informe <--
+14:27:55_almacen_ --> se imprimen variables para remision <--
+15:41:37_almacen_ --> se logueo<--
+15:41:37_almacen_ --> se carga el informe <--
+15:41:53_almacen_ --> se edito repuesto:refaccess:132:132<--
+15:43:24_almacen_ --> se imprimen variables para remision <--
+17:01:00_almacen_ --> se logueo<--
+17:01:00_almacen_ --> se carga el informe <--
+17:01:02_almacen_ --> se imprimen variables para remision <--
+17:02:10_almacen_ --> se imprimen variables para remision <--
+17:02:31_almacen_ --> se imprimen variables para remision <--
+17:06:20_almacen_ --> se imprimen variables para remision <--
+17:14:27_almacen_ --> se imprimen variables para remision <--
+20:15:21_almacen_ --> se logueo<--
+20:15:21_almacen_ --> se carga el informe <--

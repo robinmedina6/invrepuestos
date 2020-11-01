@@ -1,0 +1,14 @@
+08:14:51__ --> se imprimen variables para remision <--
+08:16:03__ --> se carga el informe <--
+08:18:59__ --> Cerro la Session<--
+08:19:01_almacen_ --> se logueo<--
+08:19:01_almacen_ --> se carga el informe <--
+08:19:14_almacen_ --> se edito repuesto:nombre:87:PINONES FRONTALES LX300+II<--
+08:19:20_almacen_ --> se edito repuesto:nombre:88:PINONES LATERALES LX300+II<--
+08:19:25_almacen_ --> se edito repuesto:nombre:86:PINON LATERAL #2<--
+08:19:29_almacen_ --> se edito repuesto:nombre:85:PINON LATERAL #1<--
+08:19:44_almacen_ --> se edito repuesto:nombre:97:TERMINAL RJ45<--
+08:20:45_almacen_ --> se imprimen variables para remision <--
+08:21:17_almacen_ --> se imprimen variables para remision <--
+10:16:13__ --> se carga el informe <--
+14:21:09__ --> Cerro la Session<--

@@ -1,0 +1,11 @@
+08:29:13__ --> se imprimen variables para remision <--
+08:30:26__ --> se imprimen variables para remision <--
+08:30:27__ --> se imprimen variables para remision <--
+10:30:01_duitama_ --> Cerro la Session<--
+10:30:10_almacen_ --> se logueo<--
+10:30:11_almacen_ --> se carga el informe <--
+11:49:13__ --> se imprimen variables para remision <--
+11:49:13__ --> se imprimen variables para remision <--
+11:52:30__ --> se imprimen variables para remision <--
+11:52:30__ --> se imprimen variables para remision <--
+14:29:11__ --> Cerro la Session<--

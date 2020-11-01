@@ -1,0 +1,52 @@
+14:25:02_almacen_ --> se logueo<--
+14:25:03_almacen_ --> se carga el informe <--
+14:28:10_almacen_ --> se imprimen variables para remision <--
+14:33:38_almacen_ --> se carga el informe <--
+15:08:34_almacen_ --> se edito repuesto:cantidad:17:6<--
+15:09:28_almacen_ --> se imprimen variables para remision <--
+15:11:25_almacen_ --> se imprimen variables para remision <--
+15:11:25_almacen_ --> se imprimen variables para remision <--
+15:11:27_almacen_ --> se carga el informe <--
+15:38:09_almacen_ --> se imprimen variables para remision <--
+15:38:53_almacen_ --> se imprimen variables para remision <--
+16:13:43__ --> se imprimen variables para remision <--
+16:14:38__ --> se imprimen variables para remision <--
+17:26:50__ --> Cerro la Session<--
+17:26:51_almacen_ --> se logueo<--
+17:26:51_almacen_ --> se carga el informe <--
+17:27:24_almacen_ --> se edito repuesto:modelo:2:LX300+II<--
+17:27:27_almacen_ --> se edito repuesto:modelo:5:LX300+II<--
+17:27:30_almacen_ --> se edito repuesto:modelo:12:LX300+II<--
+17:27:33_almacen_ --> se edito repuesto:modelo:17:LX300+II<--
+17:27:35_almacen_ --> se edito repuesto:modelo:18:LX300+II<--
+17:27:37_almacen_ --> se edito repuesto:modelo:19:LX300+II<--
+17:27:39_almacen_ --> se edito repuesto:modelo:20:LX300+II<--
+17:27:44_almacen_ --> se edito repuesto:modelo:44:LX300+II<--
+17:27:46_almacen_ --> se edito repuesto:modelo:45:LX300+II<--
+17:27:49_almacen_ --> se edito repuesto:modelo:50:LX300+II<--
+17:28:06_almacen_ --> se edito repuesto:nombre:18:BUS DE DATOS CABEZAL LX300+II<--
+17:28:08_almacen_ --> se edito repuesto:nombre:19:BUS DE DATOS HARNESS LX300+II<--
+17:28:11_almacen_ --> se edito repuesto:nombre:20:CABEZAL IMPRESORA LX300+II<--
+17:28:16_almacen_ --> se edito repuesto:nombre:5:BANDEJA GUIA PAPEL LX300+II<--
+17:28:25_almacen_ --> se edito repuesto:nombre:44:CARRO CABEZAL LX300+II<--
+17:28:27_almacen_ --> se edito repuesto:nombre:45:CINTA IMPRESORA LX300+II<--
+17:28:32_almacen_ --> se edito repuesto:nombre:50:CORTA PAPEL LX300+II<--
+17:28:36_almacen_ --> se edito repuesto:modelo:61:LX300+II<--
+17:28:39_almacen_ --> se edito repuesto:modelo:62:LX300+II<--
+17:28:41_almacen_ --> se edito repuesto:modelo:64:LX300+II<--
+17:28:45_almacen_ --> se edito repuesto:modelo:83:LX300+II<--
+17:28:47_almacen_ --> se edito repuesto:modelo:85:LX300+II<--
+17:28:49_almacen_ --> se edito repuesto:modelo:86:LX300+II<--
+17:28:51_almacen_ --> se edito repuesto:modelo:87:LX300+II<--
+17:28:53_almacen_ --> se edito repuesto:modelo:88:LX300+II<--
+17:28:56_almacen_ --> se edito repuesto:modelo:96:LX300+II<--
+17:28:59_almacen_ --> se edito repuesto:modelo:102:LX300+II<--
+17:29:01_almacen_ --> se edito repuesto:modelo:105:LX300+II<--
+17:29:03_almacen_ --> se edito repuesto:modelo:111:LX300+II<--
+17:29:06_almacen_ --> se edito repuesto:modelo:120:LX300+II<--
+17:29:09_almacen_ --> se edito repuesto:modelo:131:LX300+II<--
+17:29:13_almacen_ --> se edito repuesto:nombre:131:IMPRESORA DE BAJA LX300+II<--
+17:29:16_almacen_ --> se edito repuesto:nombre:120:CARCAZA SUPERIR EPSON LX300+II<--
+17:29:22_almacen_ --> se edito repuesto:nombre:88:PIÑONES LATERALES LX300+II<--
+17:29:24_almacen_ --> se edito repuesto:nombre:87:PIÑONES FRONTALES LX300+II<--
+17:29:29_almacen_ --> se edito repuesto:nombre:62:GUADA CABLES LX300+II<--

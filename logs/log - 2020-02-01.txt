@@ -1,0 +1,11 @@
+08:59:36_0_ --> se carga el informe <--
+08:59:40_0_ --> se imprimen variables para remision <--
+09:02:27_0_ --> se imprimen variables para remision <--
+09:02:33_0_ --> se imprimen variables para remision <--
+09:02:33_0_ --> se imprimen variables para remision <--
+09:05:59_0_ --> se imprimen variables para remision <--
+09:05:59_0_ --> se imprimen variables para remision <--
+09:26:05_0_ --> se carga el informe <--
+09:27:05_0_ --> se imprimen variables para remision <--
+09:35:20_0_ --> se imprimen variables para remision <--
+09:39:02_0_ --> se imprimen variables para remision <--

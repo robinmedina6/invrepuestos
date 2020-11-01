@@ -1,0 +1,3 @@
+08:42:38__ --> se carga el informe <--
+08:42:39__ --> se imprimen variables para remision <--
+08:42:39__ --> se imprimen variables para remision <--

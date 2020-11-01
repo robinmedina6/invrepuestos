@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+table#main table#invmaquinas tr.d[fcol="1"]{
+	background-color:rgba(255,245,245,1);
+}
+table#main table#invmaquinas tr.d[fcol="2"]{
+	background-color:rgba(255,235,235,1);
+}
+table#main table#invmaquinas tr.d[fcol="3"]{
+	background-color:rgba(255,225,225,1);
+}
+table#main table#invmaquinas tr.d[fcol="4"]{
+	background-color:rgba(255,215,215,1);
+}
+table#main table#invmaquinas tr.d[fcol="5"]{
+	background-color:rgba(255,205,205,1);
+}
+table#main table#invmaquinas tr.d[fcol="6"]{
+	background-color:rgba(255,195,195,1);
+}
+table#main table#invmaquinas tr.d[fcol="7"]{
+	background-color:rgba(255,185,185,1);
+}
+table#main table#invmaquinas tr.d[fcol="8"]{
+	background-color:rgba(255,175,175,1);
+}
+table#main table#invmaquinas tr.d[fcol="9"]{
+	background-color:rgba(255,165,165,1);
+}
+
+table#main table#invmaquinas tr.d[fcol="10"]{
+		background-color:rgba(255,155,155,1);
+}
+table#main table#invmaquinas tr.d[fcol="11"]{
+		background-color:rgba(255,145,145,1);
+}
+table#main table#invmaquinas tr.d[fcol="12"]{
+		background-color:rgba(255,135,135,1);
+}
+table#main table#invmaquinas tr.d[fcol="13"]{
+		background-color:rgba(255,125,125,1);
+}
+table#main table#invmaquinas tr.d[fcol="14"]{
+		background-color:rgba(255,115,115,1);
+}
+table#main table#invmaquinas tr.d[fcol="15"]{
+		background-color:rgba(255,105,105,1);
+}
+table#main table#invmaquinas tr.d[fcol="16"]{
+		background-color:rgba(255,95,95,1);
+}
+table#main table#invmaquinas tr.d[fcol="17"]{
+		background-color:rgba(255,85,85,1);
+}
+table#main table#invmaquinas tr.d[fcol="18"]{
+		background-color:rgba(255,75,75,1);
+}
+table#main table#invmaquinas tr.d[fcol="19"]{
+		background-color:rgba(255,65,65,1);
+}
+table#main table#invmaquinas tr.d[fcol="20"]{
+		background-color:rgba(255,55,55,0.5);
+}
+
+
+
+table#main table#invmaquinas tr.d.laboratorio{
+		background-color:rgba(255,102,0,0.5);
+}
+table#main table#invmaquinas tr.d.perdida{
+		background-color:rgba(255,55,55,0.5);
+}
+table#main table#invmaquinas tr.d.stock{
+		background-color:rgba(0,204,102,1);
+}
+table#main table#invmaquinas tr.d{
+	text-shadow:rgba(255,255,255,1) 0px 0px 5px;
+	
+	
+	}

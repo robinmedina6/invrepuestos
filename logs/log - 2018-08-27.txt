@@ -1,0 +1,29 @@
+17:13:50_almacen_ --> se logueo<--
+17:13:52_almacen_ --> se carga el informe <--
+17:13:54_almacen_ --> se imprimen variables para remision <--
+17:45:30_almacen_ --> se carga el informe <--
+17:52:07_almacen_ --> se imprimen variables para remision <--
+17:53:22_almacen_ --> se imprimen variables para remision <--
+17:53:37_almacen_ --> se carga el informe <--
+17:55:32_almacen_ --> se carga el informe <--
+17:57:12_almacen_ --> se carga el informe <--
+17:58:02_almacen_ --> se imprimen variables para remision <--
+18:04:38_almacen_ --> se carga el informe <--
+18:05:15_almacen_ --> se imprimen variables para remision <--
+18:07:38_almacen_ --> se carga el informe <--
+18:07:41_almacen_ --> se imprimen variables para remision <--
+21:03:30_almacen_ --> se logueo<--
+21:03:30_almacen_ --> se carga el informe <--
+21:03:33_almacen_ --> se imprimen variables para remision <--
+21:06:15_almacen_ --> se carga el informe <--
+21:06:23_almacen_ --> se imprimen variables para remision <--
+21:07:36_almacen_ --> se carga el informe <--
+21:07:42_almacen_ --> se imprimen variables para remision <--
+21:08:05_almacen_ --> se carga el informe <--
+21:08:09_almacen_ --> se imprimen variables para remision <--
+22:16:55_almacen_ --> se carga el informe <--
+22:20:30_almacen_ --> se imprimen variables para remision <--
+22:26:21_almacen_ --> se carga el informe <--
+23:02:04_almacen_ --> se imprimen variables para remision <--
+23:03:34_almacen_ --> se imprimen variables para remision <--
+23:06:09_almacen_ --> se imprimen variables para remision <--

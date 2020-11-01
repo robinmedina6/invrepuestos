@@ -1,0 +1,4 @@
+15:51:55_5933_ --> se carga el informe <--
+15:51:58_5933_ --> se imprimen variables para remision <--
+15:53:09_5933_ --> se imprimen variables para remision <--
+15:55:09_5933_ --> se imprimen variables para remision <--

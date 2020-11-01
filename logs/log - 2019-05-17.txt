@@ -1,0 +1,10 @@
+16:07:26_almacen_ --> se logueo<--
+16:07:26_almacen_ --> se carga el informe <--
+16:07:28_almacen_ --> se imprimen variables para remision <--
+16:09:03_almacen_ --> se imprimen variables para remision <--
+16:09:44_almacen_ --> se imprimen variables para remision <--
+16:10:13_almacen_ --> se imprimen variables para ingreso <--
+16:10:14_almacen_ --> se imprimen variables para remision <--
+16:36:41_391_ --> se imprimen variables para remision <--
+16:37:32_391_ --> se imprimen variables para remision <--
+16:37:33_391_ --> se imprimen variables para remision <--
